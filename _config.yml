@@ -7,7 +7,7 @@ favicon: 'assets/images/alomoy.png'
 baseurl: "/"
 google_analytics: ''
 disqus: 
-mailchimp-list: 'https://github.us7.list-manage.com/subscribe/post?u=fb245679a93a6d0bd6681211b&amp;id=f02c47251c'
+mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title.al
 
