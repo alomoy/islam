@@ -1,27 +1,27 @@
 # Site
-name: "Thinker Mahmud"
-title: "Mahmud's Thoughts"
-description: "আব্দুল্যাহ আদিল মাহমুদ। প্রভাষক, পরিসংখ্যান বিভাগ, পাবনা ক্যাডেট কলেজ এবং ডেটা অ্যানালিস্ট ও বিজ্ঞান লেখক "
-logo: 'assets/images/logo.jpg'
-favicon: 'assets/images/logo.jpg'
+name: "আলোময়"
+title: "ইসলামের প্রসারে"
+description: "আলোময় ভাবনা"
+logo: 'assets/images/alomoy.png'
+favicon: 'assets/images/alomoy.png'
 baseurl: "/"
 google_analytics: ''
-disqus: mahmudblog
+disqus: 
 mailchimp-list: 'https://github.us7.list-manage.com/subscribe/post?u=fb245679a93a6d0bd6681211b&amp;id=f02c47251c'
 include: ["_pages"]
 permalink: /:title.tm
 
 # Authors
 authors:
-  mahmud:
-    name: Abdullah Al Mahmud
+  binrafiq:
+    name: Ahmad Bin Rafiq
     display_name: Abdullah Al Mahmud    
-    avatar: 'assets/images/authors/mahmud.jpg'
+    avatar: 'assets/images/alomoy.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: almahmud.sbi@gmail.com
-    web: https://mahmud.statmania.info/
+    email: ahmadbinrafiq@gmail.com
+    web: 
     twitter: https://twitter.com/
-    description: "Lecturer in statistics at PCC"
+    description: ""
   sal:
     name: Sal
     display_name: Sal
