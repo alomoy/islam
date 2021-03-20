@@ -9,13 +9,13 @@ google_analytics: ''
 disqus: 
 mailchimp-list: 'https://github.us7.list-manage.com/subscribe/post?u=fb245679a93a6d0bd6681211b&amp;id=f02c47251c'
 include: ["_pages"]
-permalink: /:title.tm
+permalink: /:title.al
 
 # Authors
 authors:
   binrafiq:
     name: Ahmad Bin Rafiq
-    display_name: Abdullah Al Mahmud    
+    display_name: Ahmad Bin Rafiq    
     avatar: 'assets/images/alomoy.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: ahmadbinrafiq@gmail.com
