@@ -19,77 +19,77 @@ hidden: false
 
 তাকবিরে তাহরীমার পরে অন্যান্যের মধ্যেই এই দুয়া পড়তেন: 
 
-![](assets/images/after_takbir1.PNG)
+![](assets/images/salah_dua/after_takbir1.PNG)
 
 কখনও পড়তেন:
 
-![](assets/images/after_takbir2.PNG)
+![](assets/images/salah_dua/after_takbir2.PNG)
 
 কখনও এই দুয়া পড়তেন:
 
-![](assets/images/after_takbir3.PNG)
+![](assets/images/salah_dua/after_takbir3.PNG)
 
 সাধারণত রাতের সালাতে (তাহাজ্জুদ) এই দুয়া পড়তেন:
 
-![](assets/images/after_takbir_tahajjud.PNG)
+![](assets/images/salah_dua/after_takbir_tahajjud.PNG)
 
 কখনও আবার নিম্নোক্ত দুয়া পড়তেন:
 
-![](assets/images/after_takbir4.PNG)
+![](assets/images/salah_dua/after_takbir4.PNG)
 
 কখনও আবার নিম্নোক্ত পদ্ধতিতে পড়তেন:
 
-![](assets/images/after_takbir5.PNG)
+![](assets/images/salah_dua/after_takbir5.PNG)
 
 
 ### সানা 
 
 তিনি নিম্নোক্ত সানা পড়ে সালাত শুরু করতেন বলে বর্ণিত আছে 
 
-![](assets/images/sana.PNG)
+![](assets/images/salah_dua/sana.PNG)
 
 
 ### রুকু 
 
 তিনি রুকুতে এই তাসবীহ পড়তেন:
 
-![](assets/images/ruku1.PNG)
+![](assets/images/salah_dua/ruku1.PNG)
 
 কখনও এর সাথে নিম্নোক্ত তাসবীহ যোগ করতেন:
 
-![](assets/images/ruku2.PNG)
+![](assets/images/salah_dua/ruku2.PNG)
 
 তাহাজ্জুদ ও অন্যান্য নফল সালাতে নিম্নোক্ত দুয়া ও তাসবীহগুলোও পড়তেন:
 
-![](assets/images/ruku_nafl_salah.PNG)
+![](assets/images/salah_dua/ruku_nafl_salah.PNG)
 
-![](assets/images/ruku_nafl_salah2.PNG)
+![](assets/images/salah_dua/ruku_nafl_salah2.PNG)
 
 ### রুকু থেকে দাঁড়ানো 
 
  রুকু থেকে দাঁড়ানোর সময় পড়তেন:
  
-![](assets/images/stand_from_ruku.PNG)
+![](assets/images/salah_dua/stand_from_ruku.PNG)
 
 রুকু থেকে সোজা হয়ে দাঁড়িয়ে বলতেন:
 
-![](assets/images/stand_from_ruku2.PNG)
+![](assets/images/salah_dua/stand_from_ruku2.PNG)
 
 কখনও আবার বলতেন:
 
-![](assets/images/stand_from_ruku3.PNG)
+![](assets/images/salah_dua/stand_from_ruku3.PNG)
 
 আবার কখনও বলতেন:
 
-![](assets/images/stand_from_ruku4.PNG)
+![](assets/images/salah_dua/stand_from_ruku4.PNG)
 
 নিম্নোক্ত দুয়াও পড়তেন অনেক সময়:
 
-![](assets/images/stand_from_ruku5.PNG)
+![](assets/images/salah_dua/stand_from_ruku5.PNG)
 
 আবার নিচের দুয়া পড়ার কথাও উল্লেখ আছে:
 
-![](assets/images/stand_from_ruku6.PNG)
+![](assets/images/salah_dua/stand_from_ruku6.PNG)
 
 
 
