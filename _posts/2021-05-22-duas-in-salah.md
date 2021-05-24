@@ -2,9 +2,9 @@
 layout: post
 title:  "স্লাতের দুয়াগুলো"
 author: binrafiq
-categories: [ , salah ]
-tags: [ earth, history, teaching ]
-image: assets/images/
+categories: [salah, ibadah]
+tags: [ dua ]
+image: assets/images/mosque.jpg
 description: "আমরা সাধারণত নামাজে নির্দিষ্ট কিছু দুয়া সবসময় পড়ি। কিন্তু আল্লাহর রাসুল নামাজে কোন দুয়াগুলো পড়তেন? সবসময় কি একই দুয়াই পড়তেন? জানব এ লেখায়।"
 hidden: false
 ---
@@ -70,6 +70,28 @@ hidden: false
  রুকু থেকে দাঁড়ানোর সময় পড়তেন:
  
 ![](assets/images/stand_from_ruku.PNG)
+
+রুকু থেকে সোজা হয়ে দাঁড়িয়ে বলতেন:
+
+![](assets/images/stand_from_ruku2.PNG)
+
+কখনও আবার বলতেন:
+
+![](assets/images/stand_from_ruku3.PNG)
+
+আবার কখনও বলতেন:
+
+![](assets/images/stand_from_ruku4.PNG)
+
+নিম্নোক্ত দুয়াও পড়তেন অনেক সময়:
+
+![](assets/images/stand_from_ruku5.PNG)
+
+আবার নিচের দুয়া পড়ার কথাও উল্লেখ আছে:
+
+![](assets/images/stand_from_ruku6.PNG)
+
+
 
 (চলবে) 
  
