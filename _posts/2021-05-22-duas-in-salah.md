@@ -91,7 +91,49 @@ hidden: false
 
 ![](assets/images/salah_dua/stand_from_ruku6.PNG)
 
+রুকুর পরের কিয়ামে তিনি নিম্নের দুয়াটিও অনেকবার পড়তেন:
 
+![](assets/images/salah_dua/stand_from_ruku7.PNG)
+
+### সাজদা 
+
+তিনি সাজদায় বিভিন্ন তাসবীহ ও দুয়া পাঠ করতেন। এর মধ্যে আছে:
+
+![](assets/images/salah_dua/sajdah1.PNG)
+
+কখনও পড়তেন:
+
+![](assets/images/salah_dua/sajdah2.PNG)
+
+কখনও পড়তেন এই তাশবীহটি:
+
+![](assets/images/salah_dua/sajdah3.PNG)
+
+কখনও উচ্চারণ করতেন এই তাসবীহ:
+
+![](assets/images/salah_dua/sajdah4.PNG)
+
+কখনও পড়তেন:
+
+![](assets/images/salah_dua/sajdah5.PNG)
+
+কখনও এই দুয়া করতেন:
+
+![](assets/images/salah_dua/sajdah6.PNG)
+
+আবার কখনও এভাবে ক্ষমাপ্রার্থনা করতেন:
+
+![](assets/images/salah_dua/sajdah7.PNG)
+
+কখনও এই দুয়াও করতেন:
+
+![](assets/images/salah_dua/sajdah8.PNG)
+
+কখনও করতেন নিচের দুয়াটি:
+
+![](assets/images/salah_dua/sajdah9.PNG)
+
+রাসুল (সা) সাজদার দুয়ার ক্ষেত্রে ইজতিহাদ করতে বলেছেন। বেশি বেশি দুয়া করতে বলেছেন। সাজদায় বান্দা আল্লাহর বেশি নিকটবর্তী হয়। 
 
 (চলবে) 
  
