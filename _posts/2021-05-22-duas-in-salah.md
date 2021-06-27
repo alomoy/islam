@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "স্লাতের দুয়াগুলো"
+title:  "সালাতের দুয়াগুলো"
 author: binrafiq
 categories: [salah, ibadah]
 tags: [ dua ]
