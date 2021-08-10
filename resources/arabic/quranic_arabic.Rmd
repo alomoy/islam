@@ -1,0 +1,117 @@
+---
+title: "Quranic Arabic"
+author: Ahmad Bin Rafiq
+date: \today
+output: 
+  revealjs::revealjs_presentation:
+    theme: sky
+    reveal_plugins: ["menu", "chalkboard", "zoom"]
+    self_contained: false
+    css: css/styles.css
+    includes:
+      in_header: css/header.html
+---
+
+# Importance of Arabic  
+
+## Quran is Easy to Understand
+
+## One-letter Words
+
+<script>
+function klikaj(i) {
+    document.getElementById(i).style.visibility='visible';
+}
+</script>
+
+<div class="container">
+<div class="col">
+<u>Questions</u>
+
+<div onclick="klikaj('L1')">أ</div>
+<div onclick="klikaj('L2')">ب</div>
+</div>
+<div class="col">
+<u>Answers</u>
+
+<div id="L1" style="visibility: hidden">
+1. কি / Is / Will etc. 
+</div>
+<div id="L2" style="visibility: hidden">
+2. with, to, দ্বারা, প্রতি 
+</div>
+</div>
+</div>
+
+## New
+
+<div class="container">
+<div class="col">
+<u>Word/Letter</u>
+
+<div onclick="klikaj('L21')">أ</div>
+<div onclick="klikaj('L22')">ب</div>
+</div>
+<div class="col">
+<u>Meaning</u>
+<div id="L21" style="visibility: hidden">
+1. কি / Is / Will etc. 
+</div>
+<div id="L22" style="visibility: hidden">
+2. with, to, দ্বারা, প্রতি 
+</div>
+</div>
+<div class="col">
+<u>Example</u>
+<div id="L21" style="visibility: hidden">
+> - أَإِلَٰهٌ مَّعَ اللَّ 
+(27:61-64) 
+
+</div>
+</div>
+</div>
+
+## Alif
+
+Meaning: কি / Is / Will etc.
+
+<div class="container">
+<div class="col">
+<u>Questions</u>
+
+<div onclick="klikaj('alif1')">1. أَإِلَٰهٌ مَّعَ اللَّهِ</div>
+<div onclick="klikaj('alif2')">2.  أَيَحْسَبُ الْإِنسَانُ أَن يُتْرَكَ سُدًى</div>
+</div>
+<div class="col">
+<u>Answers</u>
+
+<div id="alif1" style="visibility: hidden">
+1. Is there any god associated with Allah
+</div>
+<div id="alif2" style="visibility: hidden">
+2. Does man think that he will be left alone, unquestioned?
+</div>
+</div>
+</div>
+
+## Signs
+
+## Sign of Tense in Verbs
+
+## Sign of Number
+
+## Signs of Gender
+
+# Verse
+
+## Sample Verses 
+
+# Common Words
+
+## Min
+
+## Maa
+
+## Fii
+
+## Ilaa
