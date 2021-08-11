@@ -16,95 +16,94 @@ output:
 
 ## Quran is Easy to Understand
 
-## One-letter Words
-
-<script>
-function klikaj(i) {
-    document.getElementById(i).style.visibility='visible';
-}
-</script>
-
-<div class="container">
-<div class="col">
-<u>Questions</u>
-
-<div onclick="klikaj('L1')">أ</div>
-<div onclick="klikaj('L2')">ب</div>
-</div>
-<div class="col">
-<u>Answers</u>
-
-<div id="L1" style="visibility: hidden">
-1. কি / Is / Will etc. 
-</div>
-<div id="L2" style="visibility: hidden">
-2. with, to, দ্বারা, প্রতি 
-</div>
-</div>
-</div>
-
-## New
-
-<div class="container">
-<div class="col">
-<u>Word/Letter</u>
-
-<div onclick="klikaj('L21')">أ</div>
-<div onclick="klikaj('L22')">ب</div>
-</div>
-<div class="col">
-<u>Meaning</u>
-<div id="L21" style="visibility: hidden">
-1. কি / Is / Will etc. 
-</div>
-<div id="L22" style="visibility: hidden">
-2. with, to, দ্বারা, প্রতি 
-</div>
-</div>
-<div class="col">
-<u>Example</u>
-<div id="L21" style="visibility: hidden">
-> - أَإِلَٰهٌ مَّعَ اللَّ 
-(27:61-64) 
-
-</div>
-</div>
-</div>
+# One-letter Words
 
 ## Alif
 
 Meaning: কি / Is / Will etc.
 
-<div class="container">
-<div class="col">
-<u>Questions</u>
+> - 2:13  قَالُوا أَنُؤْمِنُ كَمَا آمَنَ السُّفَهَاءُ ۗ
+> - 2:140  قُلْ أَأَنتُمْ أَعْلَمُ أَمِ اللَّهُ 
+> - 27:61-64 أَإِلَٰهٌ مَّعَ اللَّهِ 
+> - 6:30 قَالَ أَلَيْسَ هَٰذَا بِالْحَقِّ ۚ
+> - 7:172  أَلَسْتُ بِرَبِّكُمْ
+> - 75: 36 أَيَحْسَبُ الْإِنسَانُ أَن يُتْرَكَ سُدًى
+> - More: https://tanzil.net/#search/root/%D8%A7
 
-<div onclick="klikaj('alif1')">1. أَإِلَٰهٌ مَّعَ اللَّهِ</div>
-<div onclick="klikaj('alif2')">2.  أَيَحْسَبُ الْإِنسَانُ أَن يُتْرَكَ سُدًى</div>
-</div>
-<div class="col">
-<u>Answers</u>
 
-<div id="alif1" style="visibility: hidden">
-1. Is there any god associated with Allah
-</div>
-<div id="alif2" style="visibility: hidden">
-2. Does man think that he will be left alone, unquestioned?
-</div>
-</div>
-</div>
+## Ba (ب)
 
-## Signs
+Meanings: with, to, (am/is/are), about, for/because of,
+
+> - بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+> - 2:3  الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ 
+> - 2: 26 يُضِلُّ بِهِ كَثِيرًا وَيَهْدِي بِهِ كَثِيرًا ۚ 
+> - 3:37 إِنَّ اللَّهَ يَرْزُقُ مَن يَشَاءُ بِغَيْرِ حِسَابٍ 
+> - 3: 63 فَإِن تَوَلَّوْا فَإِنَّ اللَّهَ عَلِيمٌ بِالْمُفْسِدِينَ 
+> - 4:153 فَأَخَذَتْهُمُ الصَّاعِقَةُ بِظُلْمِهِمْ ۚ
+> - 7: 105  قَدْ جِئْتُكُم بِبَيِّنَةٍ مِّن رَّبِّكُمْ
+> - 64:111 مَا أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ اللَّ
+> - More: https://tanzil.net/#search/root/%D8%A8
+
+## Sin (س)
+
+Meanings: Of course, soon
+
+> - 2:58 وَسَنَزِيدُ الْمُحْسِنِينَ
+> - 28:27 سَتَجِدُنِي إِن شَاءَ اللَّهُ مِنَ الصَّالِحِينَ
+> - 68: 5 فَسَتُبْصِرُ وَيُبْصِرُونَ
+> - More: https://tanzil.net/#search/root/%D8%B3
+
+## Fa (ف)
+
+Meanings: Therefore, then, but, afterwards
+
+> - 2: 18  صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لَا يَرْجِعُونَ
+> - 3: 144  أَفَإِن مَّاتَ أَوْ قُتِلَ انقَلَبْتُمْ عَلَىٰ أَعْقَابِكُمْ
+> - 6:48 فَمَنْ آمَنَ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ 
+> - 35: 3 فَأَنَّىٰ تُؤْفَكُونَ
+> - 55: 69  فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+> - 68: 5 فَسَتُبْصِرُ وَيُبْصِرُونَ
+> - More: https://tanzil.net/#search/root/%D9%81/
+
+## Kaf (ك)
+
+Meanings: You, your; like/similar to, মত
+
+> - 2:4 وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ
+> - 7: 179 ولَٰئِكَ كَالْأَنْعَامِ
+> - 20:132 نَّحْنُ نَرْزُقُكَ ۗ
+> - 21: 107  وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِّلْعَالَمِينَ
+> - 38: 77 قَالَ فَاخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ
+> - 23: 97 وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ
+> - 39: 30  إِنَّكَ مَيِّتٌ وَإِنَّهُم مَّيِّتُونَ
+> - 41: 39 وَمِنْ آيَاتِهِ أَنَّكَ تَرَى الْأَرْضَ خَاشِعَةً
+> - More: https://tanzil.net/#search/root/%D9%83/
+
+## Lam (ل)
+
+Meanings: for, to, belongs to , so that; matter; certainly, befitting, শোভনীয় 
+
+> - 1:2 الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
+> - 2: 10 وَلَهُمْ عَذَابٌ أَلِيمٌ 
+> - 3: 79  مَا كَانَ لِبَشَرٍ أَن يُؤْتِيَهُ اللَّهُ الْكِتَابَ وَالْحُكْمَ وَالنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُوا عِبَادًا لِّي مِن دُونِ اللَّهِ
+> - 33: 21 لَّقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا 
+> - 24: 30 قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ 
+> - 68: 4 وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ
+> - More: https://tanzil.net/#search/root/%D9%84
+
+## Ha (ه)
+
+## Ya (ى)
+
+
+# Signs to Recognise
 
 ## Sign of Tense in Verbs
 
 ## Sign of Number
 
 ## Signs of Gender
-
-# Verse
-
-## Sample Verses 
 
 # Common Words
 
@@ -115,3 +114,19 @@ Meaning: কি / Is / Will etc.
 ## Fii
 
 ## Ilaa
+
+# Pronouns
+
+# Past Tense
+
+# Present/Future Tense
+
+# Other Tenses
+
+# Doer 
+
+# Maf'ul
+
+# Tool / Instrument
+
+# Place/Time 
