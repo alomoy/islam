@@ -12,9 +12,18 @@ output:
       in_header: css/header.html
 ---
 
-# Importance of Arabic  
+# Importance of Quranic Arabic  
+
+- 2:185 الْقُرْآنُ هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ الْهُدَىٰ وَالْفُرْقَانِ ۚ
+- Qur'an was revealed as guidance to man and clear proof of the guidance, and criterion (of falsehood and truth)
+- 14:1 كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمَاتِ إِلَى النُّورِ
+-  A Book We have sent down to you that you may lead men out of darkness into light
 
 ## Quran is Easy to Understand
+
+- 18:1 الْحَمْدُ لِلَّهِ الَّذِي أَنزَلَ عَلَىٰ عَبْدِهِ الْكِتَابَ وَلَمْ يَجْعَل لَّهُ عِوَجًا ۜ
+- 54:17 وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ 
+- We have made this Qur'an easy to understand; Is there, then, any who will take heed?
 
 # One-letter Words
 
@@ -144,6 +153,7 @@ Starts with zabar, usually 3 letters
 > - 51:56 وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ 
 > - 71:5 قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي
 > - 71:7 كُلَّمَا دَعَوْتُهُمْ
+> - 10:15 إِنْ عَصَيْتُ رَبِّي
 
 ## Third Person 
 
@@ -278,7 +288,8 @@ Past
 > - قَدَّرَ
 > - صَلَّىٰ
 > - زَكَّىٰ
-
+> - بَدَّلَ
+> - صَرَّفْنَا
 </div>
 <div class="col">
 Present 
@@ -292,6 +303,9 @@ Present
 > - نُسَبِّحُ
 > - نُقَدِّسُ
 > - يُعَذِّبُهُ
+> -  أَنْ أُبَدِّلَهُ
+> - يُبَدِّلُ 
+> - تُحَدِّثُونَهُم 
 </div>
 <div class="col">
 Command
@@ -306,6 +320,6 @@ Doer
 مُصَوِّرُ
 
 > - مُذَكِّرٌ
-
+> - مُبَدِّلَ
 </div>
 </div>
