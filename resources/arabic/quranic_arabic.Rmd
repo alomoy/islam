@@ -139,7 +139,7 @@ Starts with zabar, usually 3 letters
 > - tuma/tum: You (pl) did, 
 > - Others: فَرَضَ اللَّ, جَعَلَ, 
 
-## First Person
+## Past (First Person)
 
 تُ = I did, نَا = We did 
 
@@ -155,8 +155,9 @@ Starts with zabar, usually 3 letters
 > - 71:7 كُلَّمَا دَعَوْتُهُمْ
 > - 10:15 إِنْ عَصَيْتُ رَبِّي
 
-## Third Person 
+## Past (Third Person)
 
+> - 2:7 خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ
 > - 2:34 فَسَجَدُوا إِلَّا إِبْلِيسَ
 > - 2:37 فَتَابَ عَلَيْهِ
 > - 3:3 نَزَّلَ عَلَيْكَ الْكِتَابَ
@@ -169,7 +170,7 @@ Starts with zabar, usually 3 letters
 > - 98:7 وَعَمِلُوا الصَّالِحَاتِ
 > - 98:1  الَّذِينَ كَفَرُوا 
 
-## Second Person
+## Past (Second Person) 
 
 > - 2:6 سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ 
 > - 2:87  فَفَرِيقًا كَذَّبْتُمْ
@@ -187,13 +188,12 @@ Starts with zabar, usually 3 letters
 > - Starts with aa: I do-
 > - Starts with naa: We do-نَعْبُدُ 
 
-## Second Person
+## Present (Second Person)
 
 > - 2:6  لَمْ تُنذِرْهُمْ
 > - 2:8 مَن يَقُولُ آمَنَّا
-> - 
 
-## Third Person
+## Present (Third Person) 
 
 > -2:4 الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ
 > -  ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ
@@ -249,6 +249,28 @@ Starts with zabar, usually 3 letters
 
 # Pronouns
 
+<a href="80_Percent_Quranic_Words_English.pdf" target="blank">See here (page 4)</a>
+
+## Pronoun Examples
+
+<div class="container">
+<div class="col">
+Set 1
+
+> - 1:6 اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
+> - 1:7 نْعَمْتَ عَلَيْهِمْ
+> - 2:2  لَا رَيْبَ ۛ فِيهِ
+> - 2:4  أُنزِلَ إِلَيْكَ
+2:7 خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ
+> - 8:26 إِذْ أَنتُمْ قَلِيلٌ
+> - 8:26 أَنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ
+
+</div>
+<div class="col">
+Set 2 
+</div>
+</div>
+
 # Past Tense
 
 # Passive
@@ -276,6 +298,25 @@ Starts with zabar, usually 3 letters
 # Degree
 
 # Patterns (Baabs)
+
+## Three-lettered Verbs
+
+<div class="container">
+<div class="col">
+Past
+
+> - 
+</div>
+<div class="col">
+Present
+</div>
+<div class="col">
+Command
+</div>
+<div class="col">
+Doer
+</div>
+</div>
 
 ## Taf'il
 
@@ -328,3 +369,19 @@ Doer
 </div>
 </div>
 
+## If'al
+
+<div class="container">
+<div class="col">
+Past
+</div>
+<div class="col">
+Present
+</div>
+<div class="col">
+Command
+</div>
+<div class="col">
+Doer
+</div>
+</div>
