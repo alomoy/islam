@@ -1,7 +1,7 @@
 ---
 layout: page
 title: পারফেক্ট মুসলিম 
-permalink: notes/abdullah_ibn_aas
+permalink: ahmad-musa/perfect-muslim
 comments: false
 ---
 
