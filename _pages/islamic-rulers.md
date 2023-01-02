@@ -3,6 +3,8 @@ layout: page
 title: ইসলামী শাসন  
 permalink: notes/Caliphate
 comments: false
+description: "ইসলামী শাসনের চুম্বক তালিকা" 
+tags: [ history ]
 ---
 
 |শাসন   		| সূচনা 	| প্রথম শাসক 			| শেষ	|  
