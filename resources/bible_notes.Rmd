@@ -1,0 +1,161 @@
+---
+title: "Bible Notes"
+author: "Ahmad Bin Rafiq"
+date: "`r Sys.Date()`"
+output:
+  pdf_document:
+    toc: true
+    toc_depth: 3
+    number_sections: false
+  word_document:
+    toc: true
+    toc_depth: '3'
+documentclass: report
+geometry: margin=2cm
+---
+\fontsize{13}{22}
+\fontseries{n}
+\selectfont
+
+\newpage
+
+# Introduction
+
+## What is Bible?
+
+The Bible is a collection of books comprising of 39 books in Old Testament and 27 books in the New Testament, totaling 66. The Roman Catholic Bible has 73 books. 
+
+# Verses by Category
+
+Jesus did come to destroy law
+
+# Divinity of Jesus
+
+## I and Father One Explanation
+
+Christians, to prove Jesus (PBUH) was God, quote John 10:30
+
+> I and my Father are one. (John 10:30)
+
+The context is important, which goes like this, starting from the 22nd verse of the 10th chapter:
+
+22 And it was at Jerusalem the feast of the dedication, and it was winter. 
+
+23 And Jesus walked in the temple in Solomon's porch. 
+
+24 Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly. 
+
+25 Jesus answered them, I told you, and ye believed not: the works that I do in my Father's name, they bear witness of me. 
+
+26 But ye believe not, because ye are not of my sheep, as I said unto you. 
+
+27 My sheep hear my voice, and I know them, and they follow me: 
+
+28 and I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand. 
+
+29 My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father's hand. 
+
+30 \textbf{I and my Father are one.}
+
+31 Then the Jews took up stones again to stone him. 
+
+32 Jesus answered them, Many good works have I showed you from my Father; for which of those works do ye stone me? 
+
+33 The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. 
+
+34 Jesus answered them, \textbf{Is it not written in your law, I said, Ye are gods?} 
+
+35 If he called them gods, unto whom the word of God came, and the scripture cannot be broken; 
+
+36 say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God? 
+
+37 If I do not the works of my Father, believe me not. 
+
+38 But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him.
+
+
+39 Therefore they sought again to take him: but he escaped out of their hand, 
+
+40 and went away again beyond Jordan into the place where John at first baptized; and there he abode. 
+
+41 And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true. 
+
+42 And many believed on him there.
+
+## I am the way
+
+> Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me. (NIV, John 14:6) [^1]
+
+Again, read the context the understand the meaning, beginning from the first verse. 
+
+1 Do not let your hearts be troubled. You believe in God; believe also in me. 
+
+2 My Father’s house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you? 
+
+3 And if I go and prepare a place for you, I will come back and take you to be with me that you also may be where I am. 
+
+4 You know the way to the place where I am going.”
+
+5 Thomas said to him, “Lord, we don’t know where you are going, so how can we know the way?”
+
+6 Jesus answered, \textbf{“I am the way and the truth and the life. No one comes to the Father except through me.}
+
+7 If you really know me, you will know my Father as well. From now on, you do know him and have seen him.”
+
+8 Philip said, “Lord, show us the Father and that will be enough for us.”
+
+9 Jesus answered: “Don’t you know me, Philip, even after I have been among you such a long time? Anyone who has seen me has seen the Father. How can you say, ‘Show us the Father’?
+
+10 Don’t you believe that **I am in the Father, and that the Father is in me?** The words I say to you I do not speak on my own authority. Rather, it is the Father, living in me, who is doing his work. 
+
+11 Believe me when I say that I am in the Father and the Father is in me; or at least believe on the evidence of the works themselves. 
+
+12 Very truly I tell you, whoever believes in me will do the works I have been doing, and they will do even greater things than these, because I am going to the Father. 
+
+13 And I will do whatever you ask in my name, so that the Father may be glorified in the Son. 
+
+14 You may ask me for anything in my name, and I will do it.
+
+15 “**If you love me, keep my commands.** 
+
+16 And I will ask the Father, and he will give you another advocate to help you and be with you forever— 
+
+17 the Spirit of truth. The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will be in you. 
+
+18 I will not leave you as orphans; I will come to you. 
+
+19 Before long, the world will not see me anymore, but you will see me. Because I live, you also will live. 
+
+20 On that day you will realize that **I am in my Father, and you are in me, and I am in you.** 
+
+21 Whoever has my commands and keeps them is the one who loves me. The one who loves me will be loved by my Father, and I too will love them and show myself to them.”
+
+**If the Verse 10 means Jesus (PBUH) is God, then does the Verse 20 mean the disciples are also God? This would render Christianity like pantheism.**
+
+## Jesus (PBUH) a Messenger
+
+> the Father is greater than I [(NIV, John 14:28)](https://www.biblegateway.com/passage/?search=John%2014&version=NIV)
+
+> Anyone who does not love me will not obey my teaching. These words you hear are not my own; they belong to the Father who sent me. [***(NIV, John 14:24)***](https://www.biblegateway.com/passage/?search=John%2014%3A24&version=NIV)
+
+> The words I say to you I do not speak on my own authority. Rather, it is the Father (NIV, John 10:10)
+
+# Teachings
+
+## Follow the commands
+
+> If you love me, keep my commands. (NIV, John 14:15)
+
+> Whoever has my commands and keeps them is the one who loves me. The one who loves me will be loved by my Father, and I too will love them and show myself to them. (NIV, John 14:21) 
+
+> Jesus replied, “Anyone who loves me will obey my teaching. My Father will love them, and we will come to them and make our home with them. 24 Anyone who does not love me will not obey my teaching. These words you hear are not my own; they belong to the Father who sent me." [(NIV, John 14:23-24)](https://www.biblegateway.com/passage/?search=John%2014&version=NIV)
+
+## Muhammad (PBUH)
+
+Gospel of John, Chapter 14
+
+> 16 And I will ask the Father, and he will give you another advocate to help you and be with you forever— 17 the Spirit of truth. The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will in you. (NIV, John 14:16-17)
+
+# References
+
+[^1]: https://www.biblegateway.com/passage/?search=John%2014%3A6&version=NIV
