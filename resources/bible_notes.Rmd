@@ -19,21 +19,50 @@ geometry: margin=2cm
 
 \newpage
 
+# Conventions
+
+## Different Versions
+
+The Bible has got many versions. I have used New International Version (NIV) and King James Version (KJV) most frequently, not because different versions serve my purpose, but because I am more used to the language of the specific versions. 
+
+## Acronyms
+
+KJV = King James Version 
+
+NIV = New International Version
+
 # Introduction
 
 ## What is Bible?
 
 The Bible is a collection of books comprising of 39 books in Old Testament and 27 books in the New Testament, totaling 66. The Roman Catholic Bible has 73 books. 
 
-# Verses by Category
-
-Jesus did come to destroy law
 
 # Concept of God
 
+### The First Commandment
+
+> And one of the scribes came, ... asked him,  Which is the first commandment of all? 29 And Jesus answered him, The first of all the commandments is, Hear, O Israel; **The Lord our God is one Lord** (Shema Yisrael, Adonai eloheinu, Adonai echad). 
+>
+> --- [KJV, Mark 12:28- 29](https://www.biblegateway.com/passage/?search=Mark%2012&version=KJV)
+
 ### God is One
 
-> Now this is eternal life: that they know you, **the only true God**, and Jesus Christ, **whom you have sent**. [**(NIV, John 17:3)**](https://www.biblegateway.com/passage/?search=John+17&version=NIV)
+> Hear, O Israel: The Lord our God is one Lord: 
+>
+> --- [KJV, Deuteronomy 6:4](Deuteronomy)
+
+> Now this is eternal life: that they know you, **the only true God**, and Jesus Christ, **whom you have sent**. 
+>
+> --- [NIV, John 17:3](https://www.biblegateway.com/passage/?search=John+17&version=NIV)
+
+> I, even I, am the Lord; and beside me there is no saviour. 
+>
+> --- [Isaiah 43:11 (KJV)](https://www.biblegateway.com/passage/?search=Isaiah%2043&version=KJV)
+
+> I am the Lord, and there is none else, there is **no God beside me**...
+>
+> --- [Isaiah 45:5](https://www.biblegateway.com/passage/?search=Isaiah%2045&version=KJV)
 
 ### Only God is good
 
