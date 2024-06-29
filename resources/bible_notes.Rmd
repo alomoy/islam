@@ -37,6 +37,18 @@ NIV = New International Version
 
 The Bible is a collection of books comprising of 39 books in Old Testament and 27 books in the New Testament, totaling 66. The Roman Catholic Bible has 73 books. 
 
+## The Apostles
+
+**Gospel of Mathew (10:2-5)**
+
+The names of the twelve apostles are these; The first, **Simon**, who is called Peter, and **Andrew** his brother; **James** the son of Zebedee, and **John** his brother;
+
+3 **Philip**, and **Bartholomew**; **Thomas**, and **Matthew** the publican; **James** the son of Alphaeus, and **Lebbaeus**, whose surname was Thaddaeus;
+
+4 **Simon** the Canaanite, and **Judas Iscariot**, who also betrayed him.
+
+5 These twelve Jesus sent forth, and commanded them, saying, Go not into the way of the Gentiles, and into any city of the Samaritans enter ye not:
+
 
 # Concept of God
 
@@ -51,6 +63,20 @@ The Bible is a collection of books comprising of 39 books in Old Testament and 2
 > Hear, O Israel: The Lord our God is one Lord: 
 >
 > --- [KJV, Deuteronomy 6:4](Deuteronomy)
+
+> For thou shalt worship no other god: for the Lord, whose name is Jealous, is a jealous God:
+>
+> --- [Exodus 34:14 (KJV)](https://www.biblegateway.com/passage/?search=Exodus%2034&version=KJV)
+
+
+
+**Book of Exodus Ch 20**
+
+3 Thou shalt have **no other gods** before me.
+
+4 Thou shalt not make unto thee any **graven image, or any likeness of any thing** that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.
+
+5 Thou shalt not bow down thyself to them, nor serve them: for I the Lord thy God am a jealous God
 
 > Now this is eternal life: that they know you, **the only true God**, and Jesus Christ, **whom you have sent**. 
 >
@@ -204,7 +230,17 @@ Again, read the context the understand the meaning, beginning from the first ver
 
 > Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil. 18 For verily I say unto you, **Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law**, till all be fulfilled. 19 Whosoever therefore shall **break one of these least commandments**, and shall teach men so, he shall be called the **least in the kingdom of heaven**: but whosoever shall do and teach them, the same shall be called great in the kingdom of heaven. 20 For I say unto you, That except your righteousness shall exceed the righteousness of the scribes and Pharisees, ye shall in **no case enter into the kingdom of heaven**. [(KJV, Matthew 5:17-20)](https://www.biblegateway.com/passage/?search=Matthew%205&version=KJV)
 
-## Muhammad (PBUH)
+## Jesus (PBUH) Was Sent to The Jews
+
+> Go not into the way of the Gentiles, and into any city of the Samaritans enter ye not: 6 But go rather to the lost sheep of the house of Israel.
+>
+> --- [Mathew 10:5-6](https://www.biblegateway.com/passage/?search=Matthew%2010&version=KJV)
+
+> I am not sent but unto the lost sheep of the house of Israel.
+>
+> --- [Mathew 15:24](https://www.biblegateway.com/passage/?search=Matthew+15&version=KJV)
+
+# Muhammad (PBUH) in Bible
 
 Gospel of John, Chapter 14
 
